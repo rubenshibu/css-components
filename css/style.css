@@ -1,4 +1,51 @@
+/* Please don't edit this file*/
 :root {
-  --primary-color: #f7d914;
-  --padding-main: 50px;
+  --primary-color: #ffdd67;
+  --padding-main: 20px;
+  --primary-font: "Montserrat", sans-serif;
+  --secondary-font: "Anton", sans-serif;
+}
+
+body {
+  font-family: var(--primary-font);ssssss
+}
+
+/* main section css */
+.section-for-header {
+  padding: var(--padding-main);
+  background-color: var(--primary-color);
+  color: rgb(0, 0, 0);
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  flex-direction: column;
+}
+
+.content-header h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  font-family: var(--primary-font);
+  letter-spacing: 3px;
+}
+
+.content-body h3 {
+  font-weight: bold;
+}
+
+.btn {
+  margin: 30px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 600;
+  padding: 0.75em 1em;
+  transition: none;
+  position: relative;
+  background-color: #ff5a79;
+  color: #fff;
+  box-shadow: 0 4px #f3002e;
 }
