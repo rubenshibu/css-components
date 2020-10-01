@@ -73,7 +73,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 500px;
-  max-height: 1000px;
+  max-height: 800px;
   border: 2px solid #f0f0f0;
   margin: 10px;
 }
@@ -96,6 +96,6 @@ body {
   padding: 50px;
 }
 
-
-
-
+.creater-name h2 {
+  font-size: 20px;
+}
