@@ -10,6 +10,10 @@ body {
   font-family: var(--primary-font);
 }
 
+a {
+  text-decoration: none !important;
+}
+
 /* main section css */
 
 .header,
@@ -84,7 +88,6 @@ body {
 
 .card-title {
   border-radius: 10px 10px 0px 0px;
-  background-color: #ff7281;
   width: inherit;
   padding: 20px;
   margin: 0px;
