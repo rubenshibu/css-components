@@ -15,6 +15,9 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/addyourcss.css" />
+
+    <link rel="stylesheet" href="css/assets/magic.css" />
   </head>
   <body>
     <section class="header">
@@ -27,13 +30,53 @@
             <h3>Add your css Components</h3>
           </div>
           <div class="content-footer">
-            <a href="https://github.com/rubenshibu/css-components" class="btn">⚡ Github </a>
+            <a href="https://github.com/rubenshibu/css-components" class="btn"
+              >⚡ Github
+            </a>
           </div>
         </div>
       </div>
     </section>
     <section class="items">
-      <div class="container-fluid section-for-header"></div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="component">
+              <div class="card magictime">
+                <div class="card-title">
+                  <strong>Button</strong>
+                </div>
+                <div class="card-content">
+                  <button class="button"><span>Hover</span></button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="component">
+              <div class="card magictime">
+                <div class="card-title">
+                  <strong>Code</strong>
+                </div>
+                <div class="card-content">
+                  <code>
+                    .button { border-radius: 4px; background-color: #f4511e;
+                    border: none; color: #FFFFFF; text-align: center; font-size:
+                    28px; padding: 20px; width: 200px; transition: all 0.5s;
+                    cursor: pointer; margin: 5px; } .button span { cursor:
+                    pointer; display: inline-block; position: relative;
+                    transition: 0.5s; } .button span:after { content: '\00bb';
+                    position: absolute; opacity: 0; top: 0; right: -20px;
+                    transition: 0.5s; } .button:hover span { padding-right:
+                    25px; } .button:hover span:after { opacity: 1; right: 0; }
+                  </code>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
+    <script src="js/index.js"></script>
   </body>
 </html>
