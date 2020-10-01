@@ -11,8 +11,14 @@ body {
 }
 
 /* main section css */
-.section-for-header {
+
+.header,
+.items {
   padding: var(--padding-main);
+}
+
+.section-for-header,
+.header {
   background-color: var(--primary-color);
   color: rgb(0, 0, 0);
 }
@@ -50,3 +56,46 @@ body {
   box-shadow: 0 4px #f3002e;
   text decoration: none;
 }
+
+/* card content */
+
+.component {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  transition: 0.3s;
+  border-radius: 10px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  max-height: 1000px;
+  border: 2px solid #f0f0f0;
+  margin: 10px;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  border-radius: 10px 10px 0px 0px;
+  background-color: #ff7281;
+  width: inherit;
+  padding: 20px;
+  margin: 0px;
+  color: white;
+  text-align: center;
+}
+
+.card-content {
+  padding: 50px;
+}
+
+
+
+
