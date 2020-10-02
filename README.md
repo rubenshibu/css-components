@@ -25,11 +25,6 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-Before cloning you just make sure that you have changed the directory to _Desktop_ or some other locations, To change the directory to Desktop run the following command:
-
-```
-cd Desktop
-```
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,6 +35,12 @@ https://github.com/this-is-you/css-components.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the [css-components](https://github.com/rubenshibu/css-components) repository on GitHub to your computer.
+
+Before cloning you just make sure that you have changed the directory to _Desktop_ or some other locations, To change the directory to Desktop run the following command:
+
+```
+cd Desktop
+```
 
 ## Create a branch
 
