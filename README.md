@@ -1,6 +1,5 @@
 # css-components
 
-live - https://rubenshibu.github.io/css-components/
 
 
 <img align="right" width="300" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Fork.jpg" alt="fork this repository" />
