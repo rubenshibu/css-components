@@ -2,8 +2,6 @@
 
 /* if you want change card color please specify your name as selector */
 
-
-
 .philip {
   background-color: #5f067b;
 }
@@ -16,6 +14,6 @@
   background-color: rgb(229, 9, 20);
 }
 
-
-
-
+.demo {
+  background-color: #35cce0;
+}
