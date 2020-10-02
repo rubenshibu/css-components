@@ -94,7 +94,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Create_pull_request.jpg" alt="create a pull request" />
 
 Now submit the pull request.
 
