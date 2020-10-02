@@ -32,7 +32,7 @@ For example:
 https://github.com/this-is-you/css-components.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the [css-componente](https://github.com/rubenshibu/css-components) repository on GitHub to your computer.
 
 ## Create a branch
 
