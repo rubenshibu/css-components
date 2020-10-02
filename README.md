@@ -5,7 +5,7 @@ live - https://rubenshibu.github.io/css-components/
 
 <img align="right" width="300" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Fork.jpg" alt="fork this repository" />
 
-#### _If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)_
+#### _If you don't have git on your machine,_ [install it](https://help.github.com/articles/set-up-git/)
 
 ## Fork this repository
 
