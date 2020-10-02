@@ -36,7 +36,7 @@ https://github.com/this-is-you/css-components.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the [css-components](https://github.com/rubenshibu/css-components) repository on GitHub to your computer.
 
-Before cloning you just make sure that you have changed the directory to _Desktop_ or some other locations, To change the directory to Desktop run the following command:
+Before cloning the repository you just make sure that you have changed the directory to _Desktop_ or to some other locations, To change the directory to Desktop run the following command:
 
 ```
 cd Desktop
