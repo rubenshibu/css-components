@@ -29,7 +29,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-https://github.com/rubenshibu/css-components.git
+https://github.com/this-is-you/css-components.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
