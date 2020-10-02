@@ -1,3 +1,8 @@
+# css-components
+
+live - https://rubenshibu.github.io/css-components/
+
+
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
 
 ## Fork this repository
@@ -46,7 +51,7 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-alan-mathew
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
