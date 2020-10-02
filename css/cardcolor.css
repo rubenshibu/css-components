@@ -1,31 +1,14 @@
 /* change your card color */
 
-.card1 {
-  background-color: #ff7281;
-}
+/* if you want change card color please specify your name as selector */
 
-.card2 {
-  background-color: #ff8f56;
+.philip {
+  background-color: #5f067b;
 }
-
-.card3 {
-  background-color: #0fc9e7;
-}
-
-.card4 {
-
-  background-color: #5F067B;
-}
-.card5 {
+.joyal {
   background-color: #4e739c;
 }
-.card6 {
-  background-color: #b4e0c1;
-}
 
-
-
-.card6 {
+.Kilari {
   background-color: rgb(229, 9, 20);
 }
-
