@@ -9,7 +9,7 @@ live - https://rubenshibu.github.io/css-components/
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top right corner of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
