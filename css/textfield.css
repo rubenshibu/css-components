@@ -1,1 +1,56 @@
 /* Add your css for textfields */
+
+
+
+/* Tonal Mathew : start */
+
+.form-tonal {
+    margin: 100px;
+}
+
+.input-field-tonal {
+    position: relative;
+    width: 250px;
+    height: 44px;
+    line-height: 44px;
+}
+
+.label-tonal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #43aa8b;
+    transition: 0.2s all;
+    cursor: text;
+}
+
+.input-tonal {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid #43aa8b;
+    box-shadow: none;
+    color: #111;
+}
+
+.input-tonal:invalid {
+    outline: 0;
+}
+
+.input-tonal:required {
+    color: #00dd22;
+}
+
+.input-tonal:focus,
+.input-tonal:valid {
+    border-color: #00dd22;
+}
+
+.input-tonal:focus~label,
+.input-tonal:valid~label {
+    font-size: 14px;
+    top: -24px;
+    color: #00dd22;
+}  /* Tonal Mathew : end */
