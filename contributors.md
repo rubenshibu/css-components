@@ -104,4 +104,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats!🥳 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
+Congrats!!🥳  
+You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
