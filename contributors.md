@@ -112,6 +112,13 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request.
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+<img style="float: right;" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Create_pull_request.jpg" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Submit_PR.jpeg" alt="submit pull request" />
+
+
 ## Where to go from here?
 
 Congrats!!🥳  
