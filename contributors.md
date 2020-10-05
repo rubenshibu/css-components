@@ -26,7 +26,9 @@ Make changes based on what component you are adding. for example If you have a b
   <div class="col-lg-6">
     <div class="component">
       <div class="card magictime">
-        <!-- Here Philip is the css selector for changing card color-->
+        
+        <!-- Here Philip is the css selector for changing card color, write your name in the place of philip-->
+        
         <div class="card-title philip">
           <strong>Button</strong>
         </div>
