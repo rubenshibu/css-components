@@ -14,7 +14,7 @@ After cloning this repo open the project folder in a _text-editor_(vs code is pr
 
 ```
 
-The **css** folder contains all the files for adding your `css` and the **pages** folder contains the `html` files for adding html code. Try not
+The **css** folder contains all the files for adding your `css` and the **pages** folder contains the `html` files for adding html code.
 
 ## Make necessary changes and commit those changes
 
