@@ -54,8 +54,10 @@ Make changes based on what component you are adding. for example If you have a b
             <h2>
               <b>Name:</b
               ><span>
-                <!-- Add your name and github profile link.  -->
-                <a href="profile link">your name </a>
+                
+              <!-- Add your name and github profile link.  -->
+              
+              <a href="profile link">your name </a>
               </span>
             </h2>
           </div>
