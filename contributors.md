@@ -21,7 +21,7 @@ The **css** folder contains all the files for adding your `css` and the **pages*
 Make changes based on what component you are adding. for example If you have a button component copy the below html code into button.html and add your component inside this html and write your css inside button.css file:
 
 ```html
-<!--          Philipp Proksch (you can specify your name here)   -->
+<!--          (you can specify your name here)   -->
 <div class="row">
   <div class="col-lg-6">
     <div class="component">
