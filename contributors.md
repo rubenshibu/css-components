@@ -33,7 +33,9 @@ Make changes based on what component you are adding. for example If you have a b
           <strong>Button</strong>
         </div>
         <div class="card-content">
+         
           <!-- Add your html code for your component inside this. -->
+        
         </div>
       </div>
     </div>
