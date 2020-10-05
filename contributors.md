@@ -1,4 +1,4 @@
-# css-components contribution guidlines😬
+# css-components contribution guidelines😬
 
 After cloning this repo open the project folder in a _text-editor_(vs code is preferable). If you don't have vs-code in your machine, [install it](https://code.visualstudio.com/download)
 
