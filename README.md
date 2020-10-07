@@ -62,7 +62,7 @@ git checkout -b add-alan-mathew
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 
-### Yeah, you did it :partying_face::partying_face::partying_face:
+## Yeah, you did it :partying_face::partying_face::partying_face:
 
 Now its time to make your _**contributions**_ :star_struck::star_struck:. 
 
