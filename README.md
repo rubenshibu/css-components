@@ -64,5 +64,6 @@ git checkout -b add-alan-mathew
 
 ### Yeah, you did it :partying_face::partying_face::partying_face:
 
-Now its time to make your _**contributions**_ :star_struck::star_struck:
+Now its time to make your _**contributions**_ :star_struck::star_struck:. 
+
 For contributing view _**[contributors.md](https://github.com/rubenshibu/css-components/blob/master/contributors.md)**_
