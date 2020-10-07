@@ -66,4 +66,4 @@ git checkout -b add-alan-mathew
 
 Now its time to make your _**contributions**_ :star_struck::star_struck:. 
 
-For contributing view _**[contributors.md](https://github.com/rubenshibu/css-components/blob/master/contributors.md)**_
+For contributing view **[contributors.md](https://github.com/rubenshibu/css-components/blob/master/contributors.md)**
