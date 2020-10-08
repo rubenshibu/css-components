@@ -78,7 +78,7 @@ footer {
   position: relative;
   background-color: #ff5a79;
   color: #fff;
-  box-shadow: 0 4px #f3002e;
+  /* box-shadow: 0 4px #f3002e; */
   text-decoration: none;
 }
 
