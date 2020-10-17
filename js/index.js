@@ -4,6 +4,8 @@ card.forEach((card) => {
   card.classList.add("magictime", "swashIn");
 });
 
+//Hey this is my first commit!
+
 const mainPageCards = document.querySelectorAll(".main-page");
 const emojis = document.querySelectorAll(".emoji");
 
