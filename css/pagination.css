@@ -1,0 +1,22 @@
+/* James K Jose */
+.pagination-jkj {
+    display: inline-block;
+  }
+  
+  .pagination-jkj a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  .pagination-jkj a.active {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .pagination-jkj a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 5px;
+  }
