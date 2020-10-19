@@ -152,3 +152,93 @@
     bottom: 100%;
   }
 }
+
+/*James K Jose */
+.form-jkj form {
+	margin:10% auto 0 auto;
+	padding:30px;
+	width:400px;
+	height:auto;
+	overflow:hidden;
+	background:white;
+	border-radius:10px;
+}
+
+.form-jkj label {
+	font-size:14px;
+	color:darkgray;
+	cursor:pointer;
+}
+
+.form-jkj label,
+.form-jkj form input {
+	float:left;
+	clear:both;
+}
+
+.form-jkj input {
+	margin:15px 0;
+	padding:15px 10px;
+	width:100%;
+	outline:none;
+	border:1px solid #bbb;
+	border-radius:20px;
+	display:inline-block;
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+	        box-sizing:border-box;
+    -webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+
+.form-jkj input[type=text]:focus,
+.form-jkj input[type="password"]:focus {
+	border-color:cornflowerblue;
+}
+
+.form-jkj input[type=submit] {
+	padding:15px 50px;
+	width:auto;
+	background:#1abc9c;
+	border:none;
+	color:white;
+	cursor:pointer;
+	display:inline-block;
+	float:right;
+	clear:right;
+	-webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+
+.form-jkj input[type=submit]:hover {
+	opacity:0.8;
+}
+
+.form-jkj input[type="submit"]:active {
+	opacity:0.4;
+}
+
+.forgot,
+.register {
+	margin:10px;
+	float:left;
+	clear:left;
+	display:inline-block;
+	color:cornflowerblue;
+	text-decoration:none;
+}
+
+.forgot:hover,
+.register:hover {
+	color:darkgray;
+}
+
+.jkj {
+  background-color: #f79533;
+}
