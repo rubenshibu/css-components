@@ -54,3 +54,59 @@
     top: -24px;
     color: #00dd22;
 }  /* Tonal Mathew : end */
+
+
+/* Muskan */
+.form-muskan {
+    margin: 100px;
+}
+
+.input-field-muskan {
+    position: relative;
+    width: 250px;
+    height: 44px;
+    line-height: 44px;
+}
+
+.label-muskan {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: text;
+    width: 100%;
+    color: #161616;
+    transition: 0.2s all;
+}
+
+.input-muskan {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0.5rem;
+    border-bottom: 3px solid #161616;
+    box-shadow: none;
+    color: #161616;
+}
+
+.input-muskan:invalid {
+    outline: 0;
+}
+
+.input-muskan:required {
+    color: #00c8d6;
+}
+
+.input-muskan:focus,
+.input-muskan:valid {
+    border-color: #00c8d6;
+    border: 2px solid #00c8d6;
+    border-radius: 13px;
+}
+
+.input-muskan:focus~label,
+.input-muskan:valid~label {
+    font-size: 16px;
+    top: -33px;
+    left: 5px;
+    color: #00c8d6;
+} 
