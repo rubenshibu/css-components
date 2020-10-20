@@ -131,3 +131,40 @@
 .Saksham {
   background-color: #f69696;
 }
+
+/* Dhruv Tiwari */
+.dhruv {
+  background: linear-gradient(to right, #8743ff, #4136f1);
+}
+
+.button-dhruv {
+  width: 150px;
+  height: 50px;
+  border-radius: 180px;
+  position: relative;
+  background: linear-gradient(to right, #8743ff, #4136f1);
+  font-size: 14px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  line-height: 12px;
+  border: none;
+  transition: all 0.5s ease-in-out;
+}
+
+.button-dhruv:hover {
+  transform: translateY(-5px) scale(1.05);
+}
+
+.button-dhruv:hover::after {
+  content: "";
+  position: absolute;
+  width: 110px;
+  height: 15px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -30%);
+  z-index: -1;
+  filter: blur(25px);
+  background: linear-gradient(to right, #8743ff, #4136f1);
+}
