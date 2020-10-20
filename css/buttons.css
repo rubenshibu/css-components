@@ -127,3 +127,21 @@
 .jkj {
   background-color: #f79533;
 }
+/* Dheeraj Gandhi */
+.dheeraj {
+  border-radius: 4px;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  text-shadow: none;
+  background-color: rgb(2, 2, 92);
+  transition: 0.5s;
+}
+.dheeraj:hover {
+  box-shadow: rgb(8, 1, 77) 0 0 20px 2px;
+  font-size: 30px;
+  text-shadow: 0px 0px 10px white;
+}
