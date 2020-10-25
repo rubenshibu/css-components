@@ -25,3 +25,28 @@
 .roncy {
   background-color: #a287f4;
 }
+
+.irwanphan {
+  background: linear-gradient(270deg, #13d522, #000f0b);
+	background-size: 400% 400%;
+	-webkit-animation: sway 30s ease infinite;
+	-moz-animation: sway 30s ease infinite;
+	animation: sway 30s ease infinite;
+}
+@-webkit-keyframes sway {
+  0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+@-moz-keyframes sway {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+@keyframes sway {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+
+
