@@ -15,6 +15,10 @@
     color: white;
     border-radius: 5px;
   }
+.pagination-jkj a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 5px;
+  }
   
   .pagination-jkj a:hover:not(.active) {
     background-color: #ddd;
