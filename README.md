@@ -9,7 +9,7 @@
 Fork this repository by clicking on the fork button on the top right corner of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## Clone The Repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
