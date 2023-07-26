@@ -1,0 +1,15 @@
+{
+  "name": "origin",
+  "version": "1.0.0",
+  "description": "<img align=\"right\" width=\"300\" src=\"https://github.com/rubenshibu/css-components/blob/contributors/images/Fork.jpg\" alt=\"fork this repository\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
