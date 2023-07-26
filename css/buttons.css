@@ -3,165 +3,211 @@
 /*  button 1 */
 
 .button {
-  border-radius: 4px;
+	border-radius: 4px;
 
-  border: none;
-  color: #ffffff;
-  text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
+	border: none;
+	color: #ffffff;
+	text-align: center;
+	font-size: 28px;
+	padding: 20px;
+	width: 200px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
 }
 
 .button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
 }
 
 .button span:after {
-  content: "\00bb";
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
+	content: "\00bb";
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
 }
 
 .button:hover span {
-  padding-right: 25px;
+	padding-right: 25px;
 }
 
 .button:hover span:after {
-  opacity: 1;
-  right: 0;
+	opacity: 1;
+	right: 0;
 }
 
 /* Roncy r thomas */
 
 #roncy-btn {
-  width: 150px;
-  height: 50px;
-  border-radius: 180px;
-  position: relative;
-  background: linear-gradient(
-    60deg,
-    #f79533,
-    #f37055,
-    #ef4e7b,
-    #a166ab,
-    #5073b8,
-    #1098ad,
-    #07b39b,
-    #6fba82
-  );
-  cursor: pointer;
-  line-height: 12px;
+	width: 150px;
+	height: 50px;
+	border-radius: 180px;
+	position: relative;
+	background: linear-gradient(
+		60deg,
+		#f79533,
+		#f37055,
+		#ef4e7b,
+		#a166ab,
+		#5073b8,
+		#1098ad,
+		#07b39b,
+		#6fba82
+	);
+	cursor: pointer;
+	line-height: 12px;
 }
 
 #roncy-btn:before {
-  content: "";
-  z-index: 1;
-  position: absolute;
-  display: block;
-  width: 80%;
-  height: 70%;
-  top: 15%;
-  left: 10%;
-  transition: 0.3s opacity ease-in-out;
-  filter: blur(15px);
-  opacity: 0;
-  background: linear-gradient(
-    60deg,
-    #f79533,
-    #f37055,
-    #ef4e7b,
-    #a166ab,
-    #5073b8,
-    #1098ad,
-    #07b39b,
-    #6fba82
-  );
+	content: "";
+	z-index: 1;
+	position: absolute;
+	display: block;
+	width: 80%;
+	height: 70%;
+	top: 15%;
+	left: 10%;
+	transition: 0.3s opacity ease-in-out;
+	filter: blur(15px);
+	opacity: 0;
+	background: linear-gradient(
+		60deg,
+		#f79533,
+		#f37055,
+		#ef4e7b,
+		#a166ab,
+		#5073b8,
+		#1098ad,
+		#07b39b,
+		#6fba82
+	);
 }
 
 #roncy-btn:hover:before {
-  opacity: 1;
-  transition: 0.3s opacity ease-in-out;
-  filter: blur(25px);
-  background: linear-gradient(
-    60deg,
-    #f79533,
-    #f37055,
-    #ef4e7b,
-    #a166ab,
-    #5073b8,
-    #1098ad,
-    #07b39b,
-    #6fba82
-  );
+	opacity: 1;
+	transition: 0.3s opacity ease-in-out;
+	filter: blur(25px);
+	background: linear-gradient(
+		60deg,
+		#f79533,
+		#f37055,
+		#ef4e7b,
+		#a166ab,
+		#5073b8,
+		#1098ad,
+		#07b39b,
+		#6fba82
+	);
 }
 
 #roncy-btn:after {
-  content: "CLICK ME!";
-  text-align: center;
-  line-height: 40px;
-  font-size: 18px;
-  color: rgba(235, 235, 235, 1);
-  font-weight: bold;
-  z-index: 5;
-  position: absolute;
-  display: block;
-  border-radius: 180px;
-  width: 92%;
-  height: 80%;
-  top: 10%;
-  left: 4%;
-  background-color: rgb(19, 20, 22);
+	content: "CLICK ME!";
+	text-align: center;
+	line-height: 40px;
+	font-size: 18px;
+	color: rgba(235, 235, 235, 1);
+	font-weight: bold;
+	z-index: 5;
+	position: absolute;
+	display: block;
+	border-radius: 180px;
+	width: 92%;
+	height: 80%;
+	top: 10%;
+	left: 4%;
+	background-color: rgb(19, 20, 22);
 }
 
 /* James K Jose */
 .jkj {
-  background-color: #f79533;
+	background-color: #f79533;
 }
 /* Saksham Mahajan */
 .Saksham {
-  background-color: #f69696;
+	background-color: #f69696;
 }
 
 /* irwanphan */
 #irwanphan-btn {
-  width: 150px;
-  height: 54px;
-  cursor: pointer;
-  line-height: 12px;
-  position: relative;
-  border-radius: 16px;
-  transition: .3s ease all;
-  background-color: #000f0b;
-  border: 2px solid #000f0b;
+	width: 150px;
+	height: 54px;
+	cursor: pointer;
+	line-height: 12px;
+	position: relative;
+	border-radius: 16px;
+	transition: 0.3s ease all;
+	background-color: #000f0b;
+	border: 2px solid #000f0b;
 }
 #irwanphan-btn::before {
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  display: block;
-  font-weight: 600;
-  line-height: 54px;
-  color: aliceblue;
-  text-align: center;
-  position: absolute;
-  transition: .3s ease all;
-  content: "it's a button :)";
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	display: block;
+	font-weight: 600;
+	line-height: 54px;
+	color: aliceblue;
+	text-align: center;
+	position: absolute;
+	transition: 0.3s ease all;
+	content: "it's a button :)";
 }
 #irwanphan-btn:hover {
-  border: 2px solid #13d522;
+	border: 2px solid #13d522;
 }
 #irwanphan-btn:hover::before {
-  color: #13d522;
+	color: #13d522;
+}
+
+/* aamir-067 buttom */
+.aamir-067 {
+	background: #666;
+}
+.aamir-btn {
+	--b: 3px;
+	--s: 0.45em;
+	--color: #373b44;
+
+	padding: calc(0.5em + var(--s)) calc(0.9em + var(--s));
+	color: var(--color);
+	--_p: var(--s);
+	background: conic-gradient(
+			from 90deg at var(--b) var(--b),
+			#0000 90deg,
+			var(--color) 0
+		)
+		var(--_p) var(--_p) / calc(100% - var(--b) - 2 * var(--_p))
+		calc(100% - var(--b) - 2 * var(--_p));
+	transition: 0.3s linear, color 0s, background-color 0s;
+	outline: var(--b) solid #0000;
+	outline-offset: 0.6em;
+	font-size: 16px;
+
+	border: 0;
+
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+}
+
+.aamir-btn:hover,
+.aamir-btn:focus-visible {
+	--_p: 0px;
+	outline-color: var(--color);
+	outline-offset: 0.05em;
+}
+
+.aamir-btn:active {
+	background: var(--color);
+	color: #fff;
+}
+.aamir-container {
+	box-shadow: rgba(0, 0, 0, 0.5) -4px 9px 25px -6px;
 }
