@@ -1,5 +1,44 @@
 /* Add your Button component css to this file */
 
+/* Button by Love Sonkar   */
+
+:root{
+  --mainColor: rgb(173, 255, 47);
+}
+
+.Love-Sonkar{
+  background-color: var(--mainColor);
+}
+
+
+.Love-Sonkar-btn {
+  cursor: pointer;
+  padding: 15px 50px;
+  color: rgb(255, 255, 255);
+  font-size: 1.8rem;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+  background: var(--mainColor);
+  transition: 0.5s ease-in;
+  border: none;
+}
+
+.Love-Sonkar-btn:hover{
+  box-shadow: 0 0 30px var(--mainColor);
+  background: var(--mainColor);
+  border: 1px solid var(--mainColor);
+  animation: borderanim 1s ease-in infinite;
+}
+
+@keyframes borderanim {
+  0%,
+  100% {
+    border-radius: 20px 0 20px 0;
+  }
+  50% {
+    border-radius: 50px;
+  }
+}
+
 /*  button 1 */
 
 .button {
