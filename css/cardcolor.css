@@ -33,6 +33,9 @@
 	-moz-animation: sway 30s ease infinite;
 	animation: sway 30s ease infinite;
 }
+.nasny {
+	background-color: #0ff5d6;
+  }
 @-webkit-keyframes sway {
   0% {background-position: 0% 50%;}
 	50% {background-position: 100% 50%;}
